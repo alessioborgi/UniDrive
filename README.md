@@ -1,6 +1,6 @@
 # UniDrive 
 
-Copyright © 2023 Alessio Borgi
+\*Copyright © 2023 Alessio Borgi*\
 
 PROJECT SCOPE: Creation of a car pooling application (dedicated mainly for universities) travelling over the whole development journey: Need Finding, Storyboarding, Paper Prototyping, Figma Prototyping, Flutter (Dart) Android Application.
 
