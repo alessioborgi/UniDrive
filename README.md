@@ -15,4 +15,4 @@
 
 **FIGMA LINK**(Interactive Design Prototyping): https://www.figma.com/file/GW9r1dxiVf3SlhVVwJSsJm/UniDrive?type=design&node-id=0%3A1&t=zw6l2f9Jsr0waJTk-1
 
-**PROJECT REPOSITORY**: https://github.com/alessioborgi/Automatic_License_Plate_Recognition
+**PROJECT REPOSITORY**: https://github.com/alessioborgi/UniDrive
