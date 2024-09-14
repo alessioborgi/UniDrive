@@ -1,8 +1,8 @@
 # UniDrive 
 
-**Copyright © 2023 Alessio Borgi**
+**Copyright © 2023 Alessio Borgi, Alessandro Vecchi, Federica Bruni**
 
-**PROJECT SCOPE**: Creation of a car pooling application (dedicated mainly for universities) travelling over the whole development journey: Need Finding, Storyboarding, Paper Prototyping, Figma Prototyping, Flutter (Dart) Android Application.
+**PROJECT SCOPE**: A carpooling application designed for university students to simplify ride-sharing. It enables students to connect, schedule rides, and share trips efficiently, promoting a cost-effective and eco-friendly transportation solution within the campus community.
 
 **PROJECT RESULTS**:
 - Individuation of the user needs thanks to Interviews and Questionnaires during the Need Finding Step.
